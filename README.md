@@ -1,0 +1,1 @@
+Simple blog app to learn flask
